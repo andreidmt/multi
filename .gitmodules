@@ -34,3 +34,6 @@
 [submodule "@asd14/configs/stylelint-config"]
 	path = @asd14/configs/stylelint-config
 	url = git@github.com:asd-xiv/stylelint-config.git
+[submodule "@sh41/libs/mcp-utils"]
+	path = @sh41/libs/mcp-utils
+	url = git@github.com:shell41/mcp-utils.git
